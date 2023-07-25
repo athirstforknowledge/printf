@@ -1,5 +1,4 @@
 #include "main.h"
-#Teamproject
 
 /**
  * get_width - Calculates the width for printing
