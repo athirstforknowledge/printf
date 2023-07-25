@@ -1,5 +1,4 @@
 #include "main.h"
-#Teamproject
 
 /**
  * get_size - Calculates the size to cast the argument
